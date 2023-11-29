@@ -8,3 +8,17 @@ body{
 .underLine > th{
     text-decoration: underline;
 }
+
+.dotted{
+    border-style: dotted;
+}
+
+.dotted > tr > th{
+    border-style: dotted;
+
+}
+
+.dotted > tr > td{
+    border-style: dotted;
+
+}
